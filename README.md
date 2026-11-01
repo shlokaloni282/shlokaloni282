@@ -59,11 +59,6 @@ Final-year Electronics and Computer Science undergraduate at Mumbai University, 
 | AI / GenAI | Gemini API · Google ADK · MCP |
 | Tools | Git · GitHub · VS Code · Postman |
 
-### `03 / THINGS I'VE BUILT`
-
-- 🧠 **MindGuard AI** — Multi-agent AI companion for mental wellness.
-- 🛍️ **ShopSmart-AI** — Exploring intelligent e-commerce experiences.
-- 🌌 **Perigee** — [Add a short project description here.]
 
 ### `04 / BEYOND THE CODE`
 
